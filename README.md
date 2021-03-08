@@ -1,10 +1,9 @@
-# anilpatil_phase1_viveksharma
+### LockedMe.com Steps
 
-Steps for LockedMe.com:
-Run Main.main(). User enter the application and see the welcome screen with Main Menu screen.
+Run Main.main(). 
+User enter the application and see the welcome screen with Main Menu screen.
 
-Main Menu:
-
+## Main Menu:
 ********************************************************************************
 ******************* Welcome to Lockers Pvt Ltd *********************************
 ********************************************************************************
@@ -27,7 +26,7 @@ Main Menu has following 3 options:
 
 Please enter your choice: 
 
-If user selects valid choice like integer value < 4 or > 0 then he will be able to navigate to next File Operation Menu screen.
+# If user selects valid choice like integer value < 4 or > 0 then he will be able to navigate to next "File Operation Menu" screen.
 
 Please enter your choice: 
 2
@@ -43,7 +42,7 @@ Please select from below options:
 
 Please enter your choice:
 
-If user selects invalid choices then he will be exited from the application:
+# If user selects invalid choices then he will be exited from the application:
 
 ******************************** Main Menu *************************************
 
@@ -64,8 +63,8 @@ Closing the application
 
 Process finished with exit code 0
 
-File Operation Menu:
-If user selects valid choice like integer value < 5 or > 0 then he will be able to proceed to next step:
+## File Operation Menu:
+# If user selects valid choice like integer value < 5 or > 0 then he will be able to proceed to next step:
 
 ********************************************************************************
 Please select from below options:
@@ -81,7 +80,7 @@ Please enter your choice:
 
 Please enter file name: 
 
-If user enter invalid choice then he will be navigated back to previous Main Menu:
+# If user enter invalid choice then he will be navigated back to previous Main Menu:
 
 ********************************************************************************
 Please select from below options:
